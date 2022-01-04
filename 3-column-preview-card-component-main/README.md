@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Captura-de-pantalla.png)
+![General](./design/Captura-de-pantalla.png)
+![active button](./design/hover-state.png)
 
 
 
